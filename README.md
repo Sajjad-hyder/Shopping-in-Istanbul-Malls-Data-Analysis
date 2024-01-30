@@ -56,13 +56,14 @@ To make the most of this dataset, ensure you have the following tools installed:
    `cd <complete path to project directory>/customer_shopping_data_analysis`
 
 3. Open cmd and type following command to open the Jupyter Notebook:
+
    `jupyter notebok`
 
-4. Navigate to the folder where project is downloaded or cloned in jupyter notebook browser
+5. Navigate to the folder where project is downloaded or cloned in jupyter notebook browser
 
-5. Open the Exploratory_Data_Analysis.ipynb file.
+6. Open the Exploratory_Data_Analysis.ipynb file.
 
-6. Begin your exploration! Run the cells to analyze, visualize, and draw insights from the Istanbul Shopping Dataset.
+7. Begin your exploration! Run the cells to analyze, visualize, and draw insights from the Istanbul Shopping Dataset.
 
 ## Data Exploration using SQL
 
