@@ -33,7 +33,7 @@ Whether you're a researcher, data analyst, or a machine learning enthusiast, thi
 **Location-based Analysis:** Explore variations in shopping habits across different malls in Istanbul.
 
 # Getting Started
-**Prerequisites**
+##**Prerequisites**
 
 To make the most of this dataset, ensure you have the following tools installed:
 
@@ -42,7 +42,7 @@ To make the most of this dataset, ensure you have the following tools installed:
 + Microsoft SQL Server Management Studio (SSMS): Ideal for SQL-related tasks.
 
 
-** Data Exploration using Python**
+## Data Exploration using Python
 
 Clone this repository to your local machine:
 
@@ -58,14 +58,14 @@ Open cmd and type following command to open the Jupyter Notebook:
 `jupyter notebok`
 
 It will open Jupyter Notebook in browser.  
-jupyter notebook;
+
 Navigate to the folder where project is downloaded or cloned 
 
 Open the Exploratory_Data_Analysis.ipynb file.
 
 Begin your exploration! Dive into the code cells to analyze, visualize, and draw insights from the Istanbul Shopping Dataset.
 
-** Data Exploration using SQL**
+##Data Exploration using SQL
 
 Open Microsoft SQL Server Management Studio.
 
