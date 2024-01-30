@@ -44,25 +44,25 @@ To make the most of this dataset, ensure you have the following tools installed:
 
 ## Data Exploration using Python
 
-1. Clone this repository to your local machine:
+1. Download the dataset and place it in the appropriate folder or download the dataset directly from
+   [Customer Shopping Dataset](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset) 
 
-`git clone https://github.com/your-username/istanbul-shopping-dataset.git`
+2. Clone this repository to your local machine:
+
+   `git clone https://github.com/your-username/istanbul-shopping-dataset.git`
 
 2. Navigate to the project directory
    
-`cd <complete path to project directory>/customer_shopping_data_analysis`
+   `cd <complete path to project directory>/customer_shopping_data_analysis`
 
-Download the dataset and place it in the appropriate folder or download the dataset directly from
-[Customer Shopping Dataset](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset) 
+3. Open cmd and type following command to open the Jupyter Notebook:
+   `jupyter notebok`
 
-1. Open cmd and type following command to open the Jupyter Notebook:
-`jupyter notebok`
+4. Navigate to the folder where project is downloaded or cloned in jupyter notebook browser
 
-2. Navigate to the folder where project is downloaded or cloned in jupyter notebook browser
+5. Open the Exploratory_Data_Analysis.ipynb file.
 
-3. Open the Exploratory_Data_Analysis.ipynb file.
-
-4. Begin your exploration! Run the cells to analyze, visualize, and draw insights from the Istanbul Shopping Dataset.
+6. Begin your exploration! Run the cells to analyze, visualize, and draw insights from the Istanbul Shopping Dataset.
 
 ## Data Exploration using SQL
 
