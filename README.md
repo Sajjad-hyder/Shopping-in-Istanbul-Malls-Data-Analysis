@@ -51,19 +51,15 @@ To make the most of this dataset, ensure you have the following tools installed:
 
    `git clone https://github.com/your-username/istanbul-shopping-dataset.git`
 
-2. Navigate to the project directory
-   
-   `cd <complete path to project directory>/customer_shopping_data_analysis`
-
 3. Open cmd and type following command to open the Jupyter Notebook:
 
    `jupyter notebok`
 
-5. Navigate to the folder where project is downloaded or cloned in jupyter notebook browser
+4. Navigate to the folder where project is downloaded or cloned in jupyter notebook browser
 
-6. Open the Exploratory_Data_Analysis.ipynb file.
+5. Open the Exploratory_Data_Analysis.ipynb file.
 
-7. Begin your exploration! Run the cells to analyze, visualize, and draw insights from the Istanbul Shopping Dataset.
+6. Begin your exploration! Run the cells to analyze, visualize, and draw insights from the Istanbul Shopping Dataset.
 
 ## Data Exploration using SQL
 
