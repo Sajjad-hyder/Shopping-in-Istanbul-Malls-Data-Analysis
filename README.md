@@ -43,6 +43,7 @@ To make the most of this dataset, ensure you have the following tools installed:
 
 
 ** Data Exploration using Python**
+
 Clone this repository to your local machine:
 
 `git clone https://github.com/your-username/istanbul-shopping-dataset.git`
@@ -65,6 +66,7 @@ Open the Exploratory_Data_Analysis.ipynb file.
 Begin your exploration! Dive into the code cells to analyze, visualize, and draw insights from the Istanbul Shopping Dataset.
 
 ** Data Exploration using SQL**
+
 Open Microsoft SQL Server Management Studio.
 
 Connect to your SQL Server instance.
