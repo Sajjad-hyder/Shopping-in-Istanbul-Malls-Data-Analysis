@@ -80,9 +80,7 @@ Author: Syed Sajjad Ali Hyder
 
 Title: Customer Shopping Data Analysis
 
-Year: 2023
-
-URL: https://github.com/Sajjad-hyder/customer_shopping_data_analysis
+Year: 2024
 
 # License
 This project is licensed under the MIT License. See LICENSE.md file for details.
