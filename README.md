@@ -33,7 +33,7 @@ Whether you're a researcher, data analyst, or a machine learning enthusiast, thi
 **Location-based Analysis:** Explore variations in shopping habits across different malls in Istanbul.
 
 # Getting Started
-##**Prerequisites**
+##Prerequisites
 
 To make the most of this dataset, ensure you have the following tools installed:
 
@@ -54,24 +54,24 @@ Navigate to the project directory
 Download the dataset and place it in the appropriate folder or download the dataset directly from
 [Customer Shopping Dataset](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset) 
 
-Open cmd and type following command to open the Jupyter Notebook:
+1. Open cmd and type following command to open the Jupyter Notebook:
 `jupyter notebok`
 
 It will open Jupyter Notebook in browser.  
 
-Navigate to the folder where project is downloaded or cloned 
+2. Navigate to the folder where project is downloaded or cloned 
 
-Open the Exploratory_Data_Analysis.ipynb file.
+3. Open the Exploratory_Data_Analysis.ipynb file.
 
-Begin your exploration! Dive into the code cells to analyze, visualize, and draw insights from the Istanbul Shopping Dataset.
+4. Begin your exploration! Run the cells to analyze, visualize, and draw insights from the Istanbul Shopping Dataset.
 
-##Data Exploration using SQL
+## Data Exploration using SQL
 
-Open Microsoft SQL Server Management Studio.
+1. Open Microsoft SQL Server Management Studio.
 
-Connect to your SQL Server instance.
+2. Connect to your SQL Server instance.
 
-Execute SQL queries against the dataset using the provided SQL files in the sql_queries folder.
+3. Execute SQL queries against the dataset using the provided SQL files in the sql_queries folder.
 
 Note: Please review the dataset documentation for a detailed explanation of each field and any potential data preprocessing considerations.
 
