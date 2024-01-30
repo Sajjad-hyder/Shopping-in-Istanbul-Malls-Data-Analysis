@@ -5,7 +5,7 @@ Welcome to the shopping world of Istanbul! This repository contains a comprehens
 Our dataset encompasses a wide range of information, offering valuable insights for researchers, data analysts, and machine learning enthusiasts. Here's a breakdown of the key components:
 Invoice Numbers: Unique identifiers for each transaction.
 
-**Customer IDs:** Identification numbers assigned to individual shoppers.
++ **Customer IDs:** Identification numbers assigned to individual shoppers.
 
 **Age and Gender:** Demographic details to understand shopping preferences across different groups.
 
