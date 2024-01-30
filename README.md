@@ -7,17 +7,17 @@ Invoice Numbers: Unique identifiers for each transaction.
 
 + **Customer IDs:** Identification numbers assigned to individual shoppers.
 
-**Age and Gender:** Demographic details to understand shopping preferences across different groups.
++ **Age and Gender:** Demographic details to understand shopping preferences across different groups.
 
-**Payment Methods:** Information on how transactions were processed.
++ **Payment Methods:** Information on how transactions were processed.
 
-**Product Categories:** Categorization of purchased items for a nuanced analysis.
++ **Product Categories:** Categorization of purchased items for a nuanced analysis.
 
-**Quantity and Price:** Specifics on the quantity and cost of each product.
++ **Quantity and Price:** Specifics on the quantity and cost of each product.
 
-**Order Dates:** Timestamps for when the transactions occurred.
++ **Order Dates:** Timestamps for when the transactions occurred.
 
-**Shopping Mall Locations:** Details on the 10 different shopping malls included in the dataset.
++ **Shopping Mall Locations:** Details on the 10 different shopping malls included in the dataset.
 
 # Potential Use Cases
 Whether you're a researcher, data analyst, or a machine learning enthusiast, this dataset offers a wealth of opportunities for exploration. Some potential use cases include:
