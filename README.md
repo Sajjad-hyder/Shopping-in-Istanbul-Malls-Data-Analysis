@@ -33,7 +33,7 @@ Whether you're a researcher, data analyst, or a machine learning enthusiast, thi
 **Location-based Analysis:** Explore variations in shopping habits across different malls in Istanbul.
 
 # Getting Started
-##Prerequisites
+## Prerequisites
 
 To make the most of this dataset, ensure you have the following tools installed:
 
@@ -44,11 +44,11 @@ To make the most of this dataset, ensure you have the following tools installed:
 
 ## Data Exploration using Python
 
-Clone this repository to your local machine:
+1. Clone this repository to your local machine:
 
 `git clone https://github.com/your-username/istanbul-shopping-dataset.git`
 
-Navigate to the project directory
+2. Navigate to the project directory
 `cd <complete path to project directory>/customer_shopping_data_analysis`
 
 Download the dataset and place it in the appropriate folder or download the dataset directly from
