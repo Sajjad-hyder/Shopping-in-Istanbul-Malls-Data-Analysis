@@ -78,9 +78,5 @@ Note: Please review the dataset documentation for a detailed explanation of each
 # Authors
 Author: Syed Sajjad Ali Hyder
 
-Title: Customer Shopping Data Analysis
-
-Year: 2024
-
 # License
 This project is licensed under the MIT License. See LICENSE.md file for details.
