@@ -75,8 +75,8 @@ To make the most of this dataset, ensure you have the following tools installed:
 
 Note: Please review the dataset documentation for a detailed explanation of each field and any potential data preprocessing considerations.
 
-# Authors
-Author: Syed Sajjad Ali Hyder
+# Author
+Syed Sajjad Ali Hyder
 
 # License
 This project is licensed under the MIT License. See LICENSE.md file for details.
