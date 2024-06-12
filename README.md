@@ -1,4 +1,4 @@
-# Customer Shopping Data Analysis
+# Customer Shopping in Istanbul Data Analysis
 Welcome to the shopping world of Istanbul! This repository contains a comprehensive dataset compiled from 10 different shopping malls spanning the years 2021 to 2023. The dataset aims to provide a detailed and diverse overview of shopping habits in Istanbul, capturing information from various age groups and genders.
 
 # Project Overview
