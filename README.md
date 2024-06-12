@@ -61,6 +61,8 @@ To make the most of this dataset, ensure you have the following tools installed:
 
 6. Begin your exploration! Run the cells to analyze, visualize, and draw insights from the Istanbul Shopping Dataset.
 
+Note: Due to technical errors, github is not displaying graphs and plots. Screenshots are attached.
+
 ## Data Exploration using SQL
 
 1. Open Microsoft SQL Server Management Studio.
